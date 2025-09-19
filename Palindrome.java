@@ -9,7 +9,7 @@ public class Palindrome {
     }
 
     public static void main(String[] args) {
-        String s = "madam";
-
+        String s = "racecar";
+        System.out.println(isPalindrome(s));
     }
 }
